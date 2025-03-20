@@ -20,6 +20,7 @@
 }
 .container{
     max-width: 470px;
+    min-height: 700px;
     height: 80vh;
     background-color: hsl(225, 100%, 98%);
     display: grid;
